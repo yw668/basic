@@ -8,7 +8,5 @@ public class HelloWorld {
 
 	public static void main(String[] args) {
 		System.out.println("Hello World");
-		Tool.swap(4, 5);
-		Tool.swap(100, 5);
 	}
 }
